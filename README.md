@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CityPulse Delhi
 
 Civic reporting that treats **one real-world problem as one incident**. Many citizens reporting the same
@@ -212,3 +213,6 @@ scripts/smoke_test.py  black-box verification of a running deployment
 - **No email/SMS.** Deadlines are visible in the app and on the scorecard, but nothing notifies a citizen
   out of band.
 - **Photo authenticity is heuristic.** Hash reuse and GPS consistency, not image content analysis.
+=======
+# CITYPULSE
+>>>>>>> origin/main
